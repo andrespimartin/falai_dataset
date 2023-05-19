@@ -14,3 +14,5 @@ The FalAI dataset is currently under revision and validation and in the coming m
 If you would like to access the raw data of the audios, please send an email to **falai@balidea.com** with the subject **raw data**, indicating which **organisation** you belong to and what you want to **use the data for**, and we will contact you to provide the download link.
 
 For questions, problems or suggestions, please also send an email to **falai@balidea.com**.
+
+All the data has been exported on 15 May 2023.
