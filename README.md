@@ -6,7 +6,7 @@ Inside the **metadadata folder** you will find:
 
 - csv with the text dataset.
 - csv with the dataset of senteces exported from the database (similar to the previous one).
-- csv with the files dataset exported from the database.
+- csv with the files dataset exported from the database (divided into three parts due to its size).
 - csv with the user dataset exported from the database.
 
 The FalAI dataset is currently under revision and validation and in the coming months we will upload a second version with the validated audios and the corresponding metadata.
